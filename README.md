@@ -1,1 +1,2 @@
-# the_musick
+# The Musick - Player
+Music player based on the Spotify API
